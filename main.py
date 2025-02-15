@@ -11,8 +11,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException
 
-import time
-
 chrome_options = Options()
 chrome_options.debugger_address = "127.0.0.1:9222"
 
