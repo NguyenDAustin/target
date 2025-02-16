@@ -3,3 +3,6 @@ pip install selenium
 & "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium"
 
 I haven't full tested the code yet, so there are some bugs. I haven't coded it past the "review and buy" part, so I will have to see when it comes to that time.
+
+https://googlechromelabs.github.io/chrome-for-testing/ 
+^to download the chrome web driver
